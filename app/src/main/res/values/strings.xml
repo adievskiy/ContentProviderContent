@@ -2,4 +2,7 @@
     <string name="app_name">ContentProviderContent</string>
     <string name="textNameTV">Name</string>
     <string name="textPhoneTV">phone</string>
+    <string name="textSaveBTN">Сохранить</string>
+    <string name="hintPhoneET">Введите имя контакта</string>
+    <string name="hintNameET">Введите имя контакта</string>
 </resources>
