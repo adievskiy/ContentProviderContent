@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProviderContent</string>
+    <string name="textNameTV">Name</string>
+    <string name="textPhoneTV">phone</string>
+</resources>
